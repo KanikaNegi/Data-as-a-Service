@@ -3,11 +3,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
-#### Quick Links
-
-- [CLAAT document](https://codelabs-preview.appspot.com/?file_id=1M2o9u5VdoHaRgmlBjQgv8Zi6T40cagB8ZHCO2lpLaBo#0)
-- [Presentation](https://docs.google.com/document/d/1M2o9u5VdoHaRgmlBjQgv8Zi6T40cagB8ZHCO2lpLaBo/edit#heading=h.framgd77ba2t)
-
 
 ---
 ## Getting Started
